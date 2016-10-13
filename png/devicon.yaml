@@ -1,0 +1,140 @@
+title: devicon
+emojis:
+  - name: amazonwebservices
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/amazonwebservices.png
+  - name: android
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/android.png
+  - name: angularjs
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/angularjs.png
+  - name: apache
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/apache.png
+  - name: appcelerator
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/appcelerator.png
+  - name: apple
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/apple.png
+  - name: atom
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/atom.png
+  - name: backbonejs
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/backbonejs.png
+  - name: bitbucket
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/bitbucket.png
+  - name: bower
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/bower.png
+  - name: c
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/c.png
+  - name: chrome
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/chrome.png
+  - name: coffeescript
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/coffeescript.png
+  - name: confluence
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/confluence.png
+  - name: cplusplus
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/cplusplus.png
+  - name: csharp
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/csharp.png
+  - name: css3
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png
+  - name: d3js
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/d3js.png
+  - name: debian
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/debian.png
+  - name: django
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/django.png
+  - name: docker
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/docker.png
+  - name: doctrine
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/doctrine.png
+  - name: dot-net
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png
+  - name: drupal
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/drupal.png
+  - name: erlang
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/erlang.png
+  - name: firefox
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/firefox.png
+  - name: foundation
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/foundation.png
+  - name: gimp
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/gimp.png
+  - name: git
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png
+  - name: github
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png
+  - name: gitlab
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/gitlab.png
+  - name: go
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/go.png
+  - name: grunt
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/grunt.png
+  - name: heroku
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png
+  - name: html5
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/html5.png
+  - name: ie10
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/ie10.png
+  - name: inkscape
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/inkscape.png
+  - name: java
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png
+  - name: javascript
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png
+  - name: jeet
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jeet.png
+  - name: jetbrains
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jetbrains.png
+  - name: jquery
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png
+  - name: krakenjs
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/krakenjs.png
+  - name: linux
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/linux.png
+  - name: meteor
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/meteor.png
+  - name: mongodb
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png
+  - name: moodle
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/moodle.png
+  - name: mysql
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png
+  - name: nginx
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nginx.png
+  - name: nodejs
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png
+  - name: nodewebkit
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodewebkit.png
+  - name: oracle
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/oracle.png
+  - name: php
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/php.png
+  - name: phpstorm
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/phpstorm.png
+  - name: postgresql
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/postgresql.png
+  - name: python
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png
+  - name: react
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png
+  - name: redhat
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/redhat.png
+  - name: redis
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/redis.png
+  - name: ruby
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/ruby.png
+  - name: safari
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/safari.png
+  - name: sass
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/sass.png
+  - name: sourcetree
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/sourcetree.png
+  - name: ssh
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/ssh.png
+  - name: symfony
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/symfony.png
+  - name: vim
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/vim.png
+  - name: windows8
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/windows8.png
+  - name: wordpress
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/wordpress.png
+  - name: yii
+    src: https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/yii.png
